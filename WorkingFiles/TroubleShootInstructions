@@ -1,0 +1,18 @@
+Congratulations! You have successfully cloned this repository to your local machine 🎉
+
+First Practice Assignment:
+
+Write a Python script that:
+- Generates 24 random numbers
+- Stores them in a list
+- Finds and prints the largest number
+- Prints the entire list of numbers
+
+When you're finished:
+
+Don't forget to:
+git add .
+git commit -m "Completed first assignment"
+git push
+
+Run your script to make sure it works before committing.
